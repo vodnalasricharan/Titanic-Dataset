@@ -1,0 +1,3 @@
+Dataset:
+you can download data set using folloawing command
+kaggle competitions download -c titanic
