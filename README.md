@@ -7,5 +7,5 @@ I achieved an accuracy of 96% on training data set and 0.77 in public score lead
 
 
 plz upvote the notebook if you like my work https://www.kaggle.com/vodnalasricharan/titanic-classifier-using-dcnn
-linkedin : https://www.linkedin.com/in/sricharan-vodnala-b13b96187/
+<br>linkedin : https://www.linkedin.com/in/sricharan-vodnala-b13b96187/
 
